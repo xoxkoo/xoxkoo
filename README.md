@@ -1,5 +1,5 @@
 ### Hello there 👋
-> Anton Durcak, Software Engineering Student ⌨️
+` Anton Durcak, Software Engineering Student ⌨️`
 
 <!--
 **xoxkoo/xoxkoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
