@@ -7,6 +7,10 @@ I am 20 years old and I come from Slovakia. I study at Via University College in
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
+<a href="https://www.adur.glitch.me" target="_blank">
+   <img src="https://img.shields.io/badge/Porftolio-orange?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio Badge"/>
+</a>
+
 ### Languages and tools ⚙️
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
