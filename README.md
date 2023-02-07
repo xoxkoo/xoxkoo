@@ -3,7 +3,11 @@
 
 I am 20 years old and I come from Slovakia. I study at Via University College in Horsens, Software Technology Engineering programme. I am starting the 4th semester and I am looking for a part-time job, where I could earn experience in this field. I would like to work on things that are meaningful and have a bigger impact on this world.
 
-
+<div id="badges">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/anton-durcak-22096922a/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 ### Languages and tools ⚙️
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
