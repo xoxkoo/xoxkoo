@@ -20,7 +20,6 @@ I am 20 years old and I come from Slovakia. I study at Via University College in
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <br />
-#
 
 <details>
 <summary><h3>My coding journey</h3></summary>
