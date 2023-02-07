@@ -1,6 +1,10 @@
 # Anton Durčák 🙋‍♂️
 ### `Software Engineering Student ⌨️`
 
+I am 20 years old and I come from Slovakia. I study at Via University College in Horsens, Software Technology Engineering programme. I am starting the 4th semester and I am looking for a part-time job, where I could earn experience in this field. I would like to work on things that are meaningful and have a bigger impact on this world.
+
+
+
 ### Languages and tools ⚙️
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
