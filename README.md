@@ -8,7 +8,7 @@ I am 20 years old and I come from Slovakia. I study at Via University College in
 </a>
 
 <a href="https://adur.glitch.me" target="_blank">
-   <img src="https://img.shields.io/badge/Porftolio-655f93?style=plastic&logo=Safari&logoColor=black" alt="Portfolio Badge"/>
+   <img src="https://img.shields.io/badge/Porftolio-655f93?style=for-the-badge&logo=Safari&logoColor=black" alt="Portfolio Badge"/>
 </a>
 
 ### Languages and tools ⚙️
