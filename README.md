@@ -29,7 +29,6 @@ I am 20 years old and I come from Slovakia. I study at Via University College in
 
 #
 #
-#
 
 
 <details>
