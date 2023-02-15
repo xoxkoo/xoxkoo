@@ -30,6 +30,7 @@ I am 20 years old and I come from Slovakia. I study at Via University College in
 
 #
 
+
 <details>
 <summary><h3>My coding journey 👨‍💻</h3></summary>
 	
