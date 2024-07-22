@@ -1,7 +1,7 @@
 # Anton Durčák 🙋‍♂️
 ### `Software Engineering Student ⌨️`
 
-I am 20 years old and I come from Slovakia. I study at Via University College in Horsens, Software Technology Engineering programme. I am in the 4th semester and I am looking for an Internship in the second half of this year, where I could earn experience in this field. I am a quick learner, dedicated, highly organized with attention to detail. I like to work in groups because I know it’s almost impossible to create something meaningful alone. I am also very motivated and passionate.
+I am 20 years old and I come from Slovakia. I study at Via University College in Horsens, Software Technology Engineering programme. I am in final semester of my studies and I currently work as a frontend developer at Aston ITM. I am a quick learner, dedicated, highly organized with attention to detail. I like to work in groups because I know it’s almost impossible to create something meaningful alone. I am also very motivated and passionate.
 
 <a href="https://www.linkedin.com/in/anton-durcak-22096922a/" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
